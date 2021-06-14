@@ -1,0 +1,22 @@
+# Setup
+title:               bash -i   
+tagline:             '&lt;/Another security blog&gt;'
+description:         'You know nothing'
+url:                 https://bash-i.dev
+baseurl:             ''
+paginate:            10
+permalink:           /tcp/10.:short_year.:month.:day
+
+# About/contact
+author:
+  name:              none-sec
+  url:               https://bash-i.dev/
+  email:             one@localhost
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+
+
